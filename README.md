@@ -26,16 +26,15 @@ sudo apt-get install make gcc linux-headers-$(uname -r) build-essentials git
 ```
 Si no se encuentra alguno de los paquetes anteriores, compruebe si su distribución los instala así.
 ##### Installation
+```bash
 PARA TODAS LAS DISTRIBUCIONES
 git clone git@github.com:AntzMtz/rtlwifi_new.git
-
 cd rtlwifi_new
-
 make
-
 sudo make install
 ```
 ##### How to disable/enable a Kernel module
+```bash
 sudo modprobe -r rtw_8723de         #para apagar la wifi 
 sudo modprobe rtw_8723de ant_sel=2  #Para ensender la WIFI 
 ```
