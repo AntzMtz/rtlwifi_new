@@ -28,8 +28,11 @@ Si no se encuentra alguno de los paquetes anteriores, compruebe si su distribuci
 ##### Installation
 PARA TODAS LAS DISTRIBUCIONES
 git clone git@github.com:AntzMtz/rtlwifi_new.git
+
 cd rtlwifi_new
+
 make
+
 sudo make install
 ```
 ##### How to disable/enable a Kernel module
