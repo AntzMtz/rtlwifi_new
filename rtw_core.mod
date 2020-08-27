@@ -1,0 +1,2 @@
+/home/antz/rtlwifi_new/main.o /home/antz/rtlwifi_new/mac80211.o /home/antz/rtlwifi_new/util.o /home/antz/rtlwifi_new/debug.o /home/antz/rtlwifi_new/tx.o /home/antz/rtlwifi_new/rx.o /home/antz/rtlwifi_new/mac.o /home/antz/rtlwifi_new/phy.o /home/antz/rtlwifi_new/coex.o /home/antz/rtlwifi_new/efuse.o /home/antz/rtlwifi_new/fw.o /home/antz/rtlwifi_new/ps.o /home/antz/rtlwifi_new/sec.o /home/antz/rtlwifi_new/wow.o /home/antz/rtlwifi_new/bf.o /home/antz/rtlwifi_new/regd.o
+
