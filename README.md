@@ -2,7 +2,7 @@
 rtlwifi_new
 ===========
 ### A repo for the newest Realtek rtlwifi codes.
-
+```bash
 Este es el codigo que tiene mi maquina una HP-Laptop-15-bw005la y lo subo por que la version oficial actualmente no esta en funcionamiento
 Para ver si su modelo es el mismo debes de poner uname -a
 Para ver tu controlador sudo lspci -nn
@@ -14,7 +14,7 @@ NO, NO MODIFICARÉ LA FUENTE POR USTED. ¡¡¡¡¡ESTAS POR TU CUENTA!!!!!
 Este repositorio incluye controladores para las siguientes tarjetas:
 
 RTL8822BE, RTL8822CE, RTL8821CE y RTL8723DE.
-
+```
 
 ### Installation instruction
 ##### Requirements
